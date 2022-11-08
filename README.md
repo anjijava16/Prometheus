@@ -7,6 +7,7 @@
 ![image](https://user-images.githubusercontent.com/5849522/200606959-b16f9b00-2a73-4971-a1aa-5e63d358abcf.png)
 
 https://www.infoq.com/articles/prometheus-monitor-applications-at-scale/
+https://lyz-code.github.io/blue-book/devops/prometheus/prometheus_architecture/
 
 
 --------
